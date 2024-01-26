@@ -41,3 +41,4 @@
 /home/IEC/ilailsonrocha/Documents/DOTNET/BackDOT/bin/Debug/net8.0/MySqlConnector.dll
 /home/IEC/ilailsonrocha/Documents/DOTNET/BackDOT/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/IEC/ilailsonrocha/Documents/DOTNET/BackDOT/bin/Debug/net8.0/System.CodeDom.dll
+/home/IEC/ilailsonrocha/Documents/DOTNET/BackDOT/obj/Debug/net8.0/BackDOT.sourcelink.json

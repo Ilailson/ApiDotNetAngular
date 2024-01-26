@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackDOT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f2755ca04c84ea23ed81c8cf4647404d668185")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackDOT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackDOT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
